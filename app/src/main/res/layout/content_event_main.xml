@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.falalurahman.ragamadmin.EventMain"
+    tools:showIn="@layout/activity_event_main">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="10dp">
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:src="@drawable/logo"
+                android:layout_marginTop="50dp"/>
+            <ImageView
+                android:layout_width="170dp"
+                android:layout_height="100dp"
+                android:src="@drawable/ragam_name"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/registered"
+                android:text="Registered Participants"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp"
+                android:background="@color/colorPrimary"
+                android:textSize="15dp"
+                android:textColor="#FFF"
+                android:layout_marginBottom="10dp"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/present"
+                android:text="Present Teams"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp"
+                android:background="@color/colorPrimary"
+                android:textSize="15dp"
+                android:textColor="#FFF"
+                android:layout_marginBottom="10dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

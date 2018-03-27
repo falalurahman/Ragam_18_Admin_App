@@ -1,0 +1,368 @@
+{
+  "Workshops": {
+
+    "Logophilia Vocabulary Workshop": {
+      "EventId":  "WID01",
+      "Name": "Anjana_Soman",
+      "Password": "WID01"
+    },
+
+    "Photography Workshop ": {
+      "EventId":  "WID02",
+      "Name": "Denny_Davis",
+      "Password": "WID02"
+    },
+
+    "Hip Hop International Dance Workshop": {
+      "EventId":  "WID03",
+      "Name": "Ajay_TP",
+      "Password": "WID03"
+    },
+
+    "Social Entrepreneurship Workshop": {
+      "EventId":  "WID04",
+      "Name": "Basil_Saju",
+      "Password": "WID04"
+    },
+
+    "Ethical Hacking Workshop": {
+      "EventId":  "WID05",
+      "Name": "Meljo_Poulose",
+      "Password": "WID05"
+    },
+
+    "Robotics and IoT Workshop": {
+      "EventId":  "WID06",
+      "Name": "Gopal_Remesh",
+      "Password": "WID06"
+    },
+
+    "Film Workshop": {
+      "EventId":  "WID07",
+      "Name": "Nitin_sukumar",
+      "Password": "WID07"
+    }
+  },
+
+  "Events": {
+
+    "ChoreoNite": {
+      "EventId":  "EID001",
+      "Name": "Arjun Ramesh",
+      "Password": "abcd1234"
+    },
+
+    "Couture Boulevard": {
+      "EventId":  "EID013",
+      "Name": "Sai Ram",
+      "Password": "abcd1234"
+    },
+
+    "Dance Off": {
+      "EventId":  "EID002",
+      "Name": "Sai Ram",
+      "Password": "abcd1234"
+    },
+
+    "Freestyle": {
+      "EventId":  "EID003",
+      "Name": "Shivani",
+      "Password": "abcd1234"
+    },
+
+    "Tangled": {
+      "EventId":  "EID004",
+      "Name": "Abhilash",
+      "Password": "abcd1234"
+    },
+
+    "Drama": {
+      "EventId":  "EID005",
+      "Name": "Dheeraj",
+      "Password": "abcd1234"
+    },
+
+    "Improv": {
+      "EventId":  "EID006",
+      "Name": "Sai Ram",
+      "Password": "abcd1234"
+    },
+
+    "Mime": {
+      "EventId":  "EID007",
+      "Name": "Bharath",
+      "Password": "abcd1234"
+    },
+
+    "Movie Spoof": {
+      "EventId":  "EID008",
+      "Name": "Sayeem",
+      "Password": "abcd1234"
+    },
+
+    "Stand Up Comedy": {
+      "EventId":  "EID009",
+      "Name": "Rifath",
+      "Password": "abcd1234"
+    },
+
+    "Streetplay": {
+      "EventId":  "EID010",
+      "Name": "Balabhaskar",
+      "Password": "abcd1234"
+    },
+
+    "Antakshari (Hindi)": {
+      "EventId":  "EID011",
+      "Name": "Abhishek",
+      "Password": "abcd1234"
+    },
+
+    "Antakshari (Malayalam)": {
+      "EventId":  "EID012",
+      "Name": "Neeraja",
+      "Password": "abcd1234"
+    },
+
+    "Criminal Minds": {
+      "EventId":  "EID014",
+      "Name": "Shruthi",
+      "Password": "abcd1234"
+    },
+
+    "Dumb Charades (English)": {
+      "EventId":  "EID015",
+      "Name": "Swathi",
+      "Password": "abcd1234"
+    },
+
+    "Dumb Charades (Hindi)": {
+      "EventId":  "EID016",
+      "Name": "Ajinkya",
+      "Password": "abcd1234"
+    },
+
+    "Fury": {
+      "EventId":  "EID017",
+      "Name": "???????",
+      "Password": "abcd1234"
+    },
+
+    "Mr & Ms Ragam": {
+      "EventId":  "EID018",
+      "Name": "Faraz",
+      "Password": "abcd1234"
+    },
+
+    "Salt and Pepper": {
+      "EventId":  "EID019",
+      "Name": "Devika",
+      "Password": "abcd1234"
+    },
+
+    "Treasure Hunt": {
+      "EventId":  "EID020",
+      "Name": "Emil",
+      "Password": "abcd1234"
+    },
+
+    "Face to Face": {
+      "EventId":  "EID021",
+      "Name": "Naureen",
+      "Password": "abcd1234"
+    },
+
+    "Fine Arts Marathon": {
+      "EventId":  "EID022",
+      "Name": "Naureen",
+      "Password": "abcd1234"
+    },
+
+    "Mehendi": {
+      "EventId":  "EID023",
+      "Name": "Aysha",
+      "Password": "abcd1234"
+    },
+
+    "Sketching": {
+      "EventId":  "EID024",
+      "Name": "Naureen",
+      "Password": "abcd1234"
+    },
+
+    "Classical Dance": {
+      "EventId":  "EID026",
+      "Name": "Manjula",
+      "Password": "abcd1234"
+    },
+
+    "Classical Music Solo": {
+      "EventId":  "EID027",
+      "Name": "Sarika",
+      "Password": "abcd1234"
+    },
+
+    "Mimicry": {
+      "EventId":  "EID028",
+      "Name": "Dheeraj",
+      "Password": "abcd1234"
+    },
+
+    "Monoact": {
+      "EventId":  "EID029",
+      "Name": "Arjun",
+      "Password": "abcd1234"
+    },
+
+    "Kolkali": {
+      "EventId":  "EID030",
+      "Name": "Anandu",
+      "Password": "abcd1234"
+    },
+
+    "Duffumuttu": {
+      "EventId":  "EID031",
+      "Name": "Balabhaskar",
+      "Password": "abcd1234"
+    },
+
+    "Mappilappattu": {
+      "EventId":  "EID032",
+      "Name": "Anandu",
+      "Password": "abcd1234"
+    },
+
+    "Acoustics": {
+      "EventId":  "EID033",
+      "Name": "Emil",
+      "Password": "abcd1234"
+    },
+
+    "Amplified": {
+      "EventId":  "EID034",
+      "Name": "Pranav",
+      "Password": "abcd1234"
+    },
+
+    "Rajan Memorial Light Music Solo": {
+      "EventId":  "EID035",
+      "Name": "Shebin",
+      "Password": "abcd1234"
+    },
+
+    "String Solo": {
+      "EventId":  "EID036",
+      "Name": "Pranav",
+      "Password": "abcd1234"
+    },
+
+    "Swararaaga": {
+      "EventId":  "EID037",
+      "Name": "Shijon",
+      "Password": "abcd1234"
+    },
+
+    "Western Solo": {
+      "EventId":  "EID038",
+      "Name": "Aditya",
+      "Password": "abcd1234"
+    },
+
+    "A Capella": {
+      "EventId":  "EID051",
+      "Name": "Manjula",
+      "Password": "abcd1234"
+    },
+
+    "Debate (English)": {
+      "EventId":  "EID039",
+      "Name": "Akshaya",
+      "Password": "abcd1234"
+    },
+
+    "Debate (Malayalam)": {
+      "EventId":  "EID040",
+      "Name": "Shijon",
+      "Password": "abcd1234"
+    },
+
+    "JAM (English)": {
+      "EventId":  "EID041",
+      "Name": "Ishaal",
+      "Password": "abcd1234"
+    },
+
+    "JAM (Malayalam)": {
+      "EventId":  "EID042",
+      "Name": "Anandu",
+      "Password": "abcd1234"
+    },
+
+    "Kavithaparayanam": {
+      "EventId":  "EID043",
+      "Name": "Anju",
+      "Password": "abcd1234"
+    },
+
+    "Mock Court": {
+      "EventId":  "EID044",
+      "Name": "Ram Prabhu",
+      "Password": "abcd1234"
+    },
+
+    "Reporter": {
+      "EventId":  "EID045",
+      "Name": "Balabhaskar",
+      "Password": "abcd1234"
+    },
+
+    "Slam Poetry": {
+      "EventId":  "EID046",
+      "Name": "Faraz",
+      "Password": "abcd1234"
+    },
+
+    "What's the Good Word": {
+      "EventId":  "EID047",
+      "Name": "Ajitesh",
+      "Password": "abcd1234"
+    },
+
+    "College SPENT Quiz": {
+      "EventId":  "EID048",
+      "Name": "Hari",
+      "Password": "abcd1234"
+    },
+
+    "Open General Quiz": {
+      "EventId":  "EID049",
+      "Name": "Visakh",
+      "Password": "abcd1234"
+    },
+
+    "Open MELA Quiz": {
+      "EventId":  "EID050",
+      "Name": "Ram Prabhu",
+      "Password": "abcd1234"
+    },
+
+    "The Coulmnist": {
+      "EventId":  "EID058",
+      "Name": "Gokul Krishnakumar",
+      "Password": "abcd1234"
+    },
+
+    "Creative Writing- Prose": {
+      "EventId":  "EID059",
+      "Name": "Gokul Krishnakumar",
+      "Password": "abcd1234"
+    },
+
+    "Creative Writing- Poetry":  {
+      "EventId":  "EID060",
+      "Name": "Gokul Krishnakumar",
+      "Password": "abcd1234"
+    }
+
+  }
+}

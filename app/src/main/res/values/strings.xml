@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ragam Admin</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="events_array">
+        <item>None</item>
+        <item>Workshops</item>
+        <item>Events</item>
+        <item>Registration</item>
+    </string-array>
+    <string name="title_activity_workshop_main">Workshop</string>
+    <string name="title_activity_event_main">Events</string>
+    <string name="title_activity_registered_participants_workshop">Registered Participants</string>
+    <string name="title_activity_present_participants_workshop">Participants Present</string>
+    <string name="title_activity_registered_participants_events">Registered Participants</string>
+    <string name="title_activity_present_teams">Present Teams</string>
+    <string name="title_activity_edit_team">Edit Team</string>
+    <string name="title_activity_add_team_member">Add Team Member</string>
+    <string name="title_activity_edit_registration">Edit User Details</string>
+</resources>
